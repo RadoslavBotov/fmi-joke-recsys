@@ -16,5 +16,4 @@ In total, there are three types of recommendation systems compared to each other
 - pandas
 - pillow
 - scikit-learn
-- scipy
 - torch
